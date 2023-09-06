@@ -1,0 +1,1 @@
+FROM bitnami/redis-exporter:v1.54.0
